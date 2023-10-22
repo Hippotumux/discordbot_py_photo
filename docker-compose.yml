@@ -1,0 +1,9 @@
+version: "3"
+
+services:
+  botpy:
+    build: .
+    container_name: botpy
+    restart: always
+    volumes:
+      - ./volume:/usr/src/bot

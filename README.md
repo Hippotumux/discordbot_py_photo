@@ -31,7 +31,7 @@ git clone git@github.com:Hippotumux/discordbot_py_photo.git
 ```
 
 ### 前言
-pixiv 需要登入才能請求到比較完整的資料，但是寫登入稍微麻煩了點，所以我實作直接丟cookie去抓資料(但要注意 cookie 經過一段時間之後，會變動) 
+pixiv 需要登入才能請求到比較完整的資料，但是寫登入稍微麻煩了點，所以我實作直接丟 cookie 去抓資料(但要注意 cookie 經過一段時間之後，會變動) 
 - 這次的實作是給繪師 id，然後爬蟲下載到本地端並且傳送到 discord 上面
 - 並且使用 docker compose 來跑
 

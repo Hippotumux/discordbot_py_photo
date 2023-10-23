@@ -135,7 +135,7 @@ https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-
 
 把得到的 cookie 以及 token 放進去 token.json
 
-### 運行專案
+## 運行專案
 
 ```bash
 docker compose up -d

@@ -125,7 +125,7 @@ resp.content返回的是bytes型也就是二进制的数据
 - requests 就是用來請求
 - pprint 他是一種數據美化輸出，這樣輸出得到的資料會比較好分析，如果單純用print會全部一坨
 
-## DC 機器人建立
+## DC 機器人建立，以及取得 token
 
 因為步驟都一樣，所以這邊放上我參考的資料
 https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token

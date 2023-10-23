@@ -8,9 +8,11 @@
 ## 功能
 
 讓使用者輸入繪師 id，回傳前10張圖片到 DC 上。
-
+如果爬不到的話會輸出找不到網頁。
+   
 ## 畫面
 
+![image](https://github.com/Hippotumux/discordbot_py_photo/assets/100692893/1fe52a42-d57e-43fe-9aa0-462630869cfb)
 
 ## 安裝
 

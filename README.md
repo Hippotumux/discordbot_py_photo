@@ -9,7 +9,7 @@
 
 讓使用者輸入繪師 id，回傳前10張圖片到 DC 上。
 如果爬不到的話會輸出找不到網頁。
-   
+
 ## 畫面
 
 ![image](https://github.com/Hippotumux/discordbot_py_photo/assets/100692893/1fe52a42-d57e-43fe-9aa0-462630869cfb)
@@ -125,6 +125,15 @@ resp.content返回的是bytes型也就是二进制的数据
 - requests 就是用來請求
 - pprint 他是一種數據美化輸出，這樣輸出得到的資料會比較好分析，如果單純用print會全部一坨
 
+## DC 機器人建立
+
+因為步驟都一樣，所以這邊放上我參考的資料
+https://github.com/reactiflux/discord-irc/wiki/Creating-a-discord-bot-&-getting-a-token
+就可以取得 token 了
+
+## 更改 token.json
+
+把得到的 cookie 以及 token 放進去 token.json
 
 ### 運行專案
 
